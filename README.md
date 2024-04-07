@@ -36,35 +36,6 @@ and you can add the sites you would like to block during work time
 
 the script will automaticaly detect your OS and will add the host records to the relevent location
 
-One more thing 
--------------------
-
-You would need to set up the starting working + ending working hours where you would like to be restricted from accessing those websites.
-To do this go to line last line of our code and edit the hours where by.
-
-![time_to_block](./time_to_block.png)
-
-Congratulations 
---------------------
-
-Well done you now have a fully functioning website blocker that you have made yourself to improve your productivity, in Python 
-
-Issues 
------------
-
-Incase you have any difficulties or issues while trying to run the script
-you can raise it on the issues 
-
-Pull Requests
-----------------
-
-If you have something to add, I welcome pull requests that improve the project, your helpful contribution will be merged as soon as possible.
 
 
-Give it a Star ✴️
---------------------
-If you find this repo useful , give it a star
 
-Credits
------------
-All the credits to [kalebu](https://github.com/Kalebu)
